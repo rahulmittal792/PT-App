@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="ProjectListItem">
+        <attr name="projectId" format="string" />
+        <attr name="text" format="string" />
+    </declare-styleable>
+</resources>

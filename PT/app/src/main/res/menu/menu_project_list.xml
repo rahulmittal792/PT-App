@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="rahulmittal792.github.io.pt.ProjectList">
+    <item android:id="@+id/profile_option" android:title="@string/profile_option"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/logout_option" android:title="@string/logout_option"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
